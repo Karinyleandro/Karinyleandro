@@ -5,7 +5,7 @@
 Meu nome é **Kariny Leandro da Silva**, tenho 17 anos e sou natural de **Cedro – Ceará**.  
 Concluí em **2025** o **Ensino Médio integrado ao curso técnico em Informática** pelo **IFCE – Campus Cedro**.
 
-Sou apaixonada por programação e atuo principalmente no **desenvolvimento backend**, com foco na criação de APIs, regras de negócio, integração com bancos de dados e deploy de aplicações. Gosto de entender como os sistemas funcionam por trás das telas e de transformar problemas em soluções eficientes.
+Sou apaixonada por programação e atuo principalmente no **desenvolvimento backend**, com foco na criação de APIs, integração com bancos de dados e deploy de aplicações. Gosto de entender como os sistemas funcionam por trás das telas e de transformar problemas em soluções eficientes.
 
 ---
 
